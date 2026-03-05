@@ -1,4 +1,4 @@
-print('----- LOG -----')
+print('----- Seno -----')
 
 def fatorial(n):
     #comeca com 1 pois e a base do fatorial
